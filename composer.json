@@ -1,0 +1,21 @@
+{
+    "name": "nhatcaht/post",
+    "description": "Test package post",
+    "type": "library",
+    "require": {
+        "php": "^7"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Nhatcaht\\Post\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nhattranviet",
+            "email": "tranvietnhat@hatinh.edu.vn"
+        }
+    ],
+    "minimum-stability": "dev"
+}
